@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BallaiLaszlo, i use mostly Lazlow_
-- 🎓🏫 I'm currently learning at Debrecen University!
+- 🎓🏫 I finished my studies at Debrecen University!
 - 🗣️ I speak hungarian , english, and romanian (but i dont feel comfortable with romanian) :)
 - 👀 I’m interested in any programming language and interesting problems.
 - 🌱 I’m currently learning mostly Java , but I'm down for everything.
