@@ -6,8 +6,8 @@
 - 📖 I know C++ on avrage level,im learning Python, and I'm kinda good at maths!
 - 💞️ Looking for collabs!
 - 🤝If you have any good idea contact me , maybe we can figrue something out together!
-- I'm currenlty woriking at PTC Hungary as a Quality Assurance intern
-- 📫 How to reach me Facebook: https://www.facebook.com/ballai.lacika/
+- I'm currenlty woriking at Manpower Hungary as a Game Tester Test Associate
+- - 📫 How to reach me Facebook: https://www.facebook.com/ballai.lacika/
                       Discord: Lazlow#7481
                       Twitter: https://twitter.com/Laszlo_ballai (Kinda inactive)
                       Steam:   https://steamcommunity.com/id/Uljleahatadra/
