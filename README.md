@@ -1,6 +1,6 @@
 # Hi, I'm László Ballai! 👋
 
-I'm a Computer Science graduate from the University of Debrecen, currently working as a **QA Tester at Manpower Hungary**.
+I'm a Computer Science graduate from the University of Debrecen.
 
 I'm passionate about software quality, problem-solving, and exploring new technologies. My main focus is manual software testing, while continuously developing my programming and test automation skills.
 
