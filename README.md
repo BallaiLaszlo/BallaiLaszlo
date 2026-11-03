@@ -10,7 +10,7 @@
 - - 📫 How to reach me Facebook: https://www.facebook.com/ballai.lacika/
                       Discord: Lazlow#7481
                       Twitter: https://twitter.com/Laszlo_ballai (Kinda inactive)
-                      Steam:   https://steamcommunity.com/id/Uljleahatadra/
+                      Steam:   [https://steamcommunity.com/id/Uljleahatadra/](https://steamcommunity.com/id/lazlow12/)
                       
       Have a good day! :)
 
